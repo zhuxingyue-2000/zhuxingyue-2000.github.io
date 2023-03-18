@@ -86,7 +86,7 @@ theme_mode: [light|dark] # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://file.notion.so/f/s/eb1c11a2-e4d1-4e3a-846e-a6d9f2a23bd0/logo.jpg?spaceId=8e91aee1-75e9-4616-a8e6-f4bb86e00f74&table=block&id=b9dc56a2-f659-4339-aca7-7ea2c2889fe1&expirationTimestamp=1679242721202&signature=2O4UGRSehHqm95rZ9H-KFGuwXBIah0wGozFzi3rXHO0&downloadName=logo.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
